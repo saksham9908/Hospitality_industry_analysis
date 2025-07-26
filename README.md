@@ -49,13 +49,13 @@ Since AtliQ Grands **lacked an in-house data analytics team**, their **Revenue M
 ## 📊 Dashboard Snapshots
 
 ### **1. Overall Revenue Analysis (3 Months)**
-![Overall Dashboard](c8317913-110c-41eb-9b20-fc60576426aa.png)
+![Overall Dashboard](https://github.com/saksham9908/Hospitality_industry_analysis/blob/main/Sample%20Screenshots/hospitality_dashboard_screenshot.png)
 
 ### **2. Revenue Metrics – Delhi**
-![Delhi Dashboard](hospitality_db_ss2.png)
+![Delhi Dashboard](https://github.com/saksham9908/Hospitality_industry_analysis/blob/main/Sample%20Screenshots/hospitality_db_ss2.png)
 
 ### **3. Revenue Metrics – Mumbai**
-![Mumbai Dashboard](hospitality_db_ss3.png)
+![Mumbai Dashboard](https://github.com/saksham9908/Hospitality_industry_analysis/blob/main/Sample%20Screenshots/hospitality_db_ss3.png)
 
 ---
 
